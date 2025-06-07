@@ -17,8 +17,8 @@
 
 ## 📫 Connect with Me
 
-- 🌐 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/sabbir-ahmed-mahim)
-- 💻 GitHub: [@yourusername](https://github.com/sabbirahmedmaim)
+- 🌐 LinkedIn: [linkedin.com/in/sabbir-ahmed-mahim](https://linkedin.com/in/sabbir-ahmed-mahim)
+- 💻 GitHub: [@sabbirahmedmahim](https://github.com/sabbirahmedmaim)
 
 ---
 
