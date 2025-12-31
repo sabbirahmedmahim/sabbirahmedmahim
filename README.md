@@ -1,8 +1,6 @@
 # **Assalam Walaikum, I'm Sabbir Ahmed Mahim**
 
-I am a Computer Science & Engineering student at Premier University, building a strong foundation in low-level programming and performance-focused problem solving. My current focus areas include **Data Structures, Algorithms, Object-Oriented Programming, and practical software development**.
-
-I also work with **LaTeX** for academic writing, documentation, and technical reports.
+CSE student at Premier University, focused on strengthening core programming fundamentals and improving problem-solving skills through DSA, OOP, DBMS, and practical software development.
 
 ---
 
@@ -13,11 +11,13 @@ I also work with **LaTeX** for academic writing, documentation, and technical re
 - C++  
 - Java  
 - Python  
+- HTML  
+- CSS  
+- JavaScript  
 
-**Areas of Learning:**  
-- Data Structures  
-- Algorithms  
-- Object-Oriented Programming (OOP)
+**Areas of Learning / Interest:**  
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
 - Database Management Systems (DBMS)
 
 **Tools & IDEs:**  
