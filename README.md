@@ -18,13 +18,14 @@ I also work with **LaTeX** for academic writing, documentation, and technical re
 - Data Structures  
 - Algorithms  
 - Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
 
 **Tools & IDEs:**  
 - Git, GitHub  
 - VS Code  
 - IntelliJ IDEA  
 - PyCharm  
-- LaTeX
+- MySQL
 
 ---
 
