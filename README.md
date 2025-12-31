@@ -1,24 +1,42 @@
-# 👋 Hi, I'm SABBIR AHMED MAHIM
+# **Assalam Walaikum, I'm Sabbir Ahmed Mahim**
 
-🎓 First-year CSE student at Premier University
-💻 Learning low-level and high-performance programming  
-🧠 Currently diving into **Data Structures and Algorithms (DSA)**  
-📄 Skilled in **LaTeX** for academic writing and reports
+I am a Computer Science & Engineering student at Premier University, building a strong foundation in low-level programming and performance-focused problem solving. My current focus areas include **Data Structures, Algorithms, Object-Oriented Programming, and practical software development**.
 
----
-
-## 🧰 Tech Stack
-
-- 🔵 **Languages:** C, C++
-- 🔍 **Currently Learning:** Data Structures, Algorithms
-- 🛠️ **Tools:** Git, GitHub, VS Code, LaTeX
+I also work with **LaTeX** for academic writing, documentation, and technical reports.
 
 ---
 
-## 📫 Connect with Me
+## **Tech Stack**
 
-- 🌐 LinkedIn: [linkedin.com/in/sabbir-ahmed-mahim](https://linkedin.com/in/sabbir-ahmed-mahim)
-- 💻 GitHub: [@sabbirahmedmahim](https://github.com/sabbirahmedmaim)
+**Languages:**  
+- C  
+- C++  
+- Java  
+- Python  
+
+**Areas of Learning:**  
+- Data Structures  
+- Algorithms  
+- Object-Oriented Programming (OOP)
+
+**Tools & IDEs:**  
+- Git, GitHub  
+- VS Code  
+- IntelliJ IDEA  
+- PyCharm  
+- LaTeX
 
 ---
 
+## **Competitive Programming Profiles**
+
+- **Codeforces:** https://codeforces.com/profile/sabbirahmedmahim  
+- **CodeChef:** https://www.codechef.com/users/sabbir_mahim  
+- **LeetCode:** https://leetcode.com/u/sabbirahmedmahim/
+
+---
+
+## **Connect With Me**
+
+- **LinkedIn:** https://linkedin.com/in/sabbir-ahmed-mahim  
+- **GitHub:** https://github.com/sabbirahmedmahim
