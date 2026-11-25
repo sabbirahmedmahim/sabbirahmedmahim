@@ -1,15 +1,12 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=SABBIR%20AHMED%20MAHIM&fontSize=34&fontColor=E6EDF3&font=Orbitron&animation=twinkling&color=0:0B1020,50:1C2541,100:303B59&stroke=8293B5&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=SABBIR%20AHMED%20MAHIM&fontSize=34&fontColor=FFFFFF&font=Orbitron&animation=twinkling&color=0:3B0000,50:8B0000,100:DC143C&stroke=FF6B6B&strokeWidth=1" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=17&duration=3000&pause=1000&color=9DAFCB&center=true&vCenter=true&width=600&lines=CSE+STUDENT+%40+PREMIER+UNIVERSITY;CODE.+CREATE.+EXPERIMENT.;LEARNING+SOMETHING+NEW+EVERY+DAY." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=900&lines=CSE+STUDENT+%40+PREMIER+UNIVERSITY;CODE.+CREATE.+EXPERIMENT.;LEARNING+SOMETHING+NEW+EVERY+DAY." alt="Typing SVG" />
 
   <br/>
 
-  <p>
-    A Computer Science student exploring the world of programming,<br/>
-    problem-solving, creative ideas, and building things along the way.
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=16&duration=4000&pause=3000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=720&height=90&lines=A+Computer+Science+student+exploring+the+world+of+programming%2C;problem-solving%2C+creative+ideas%2C+and+building+things+along+the+way." alt="About Me" />
 
 </div>
 
@@ -29,11 +26,11 @@
 
 <p align="center">
   <a href="https://linktr.ee/sabbirahmedmahim">
-    <img src="https://img.shields.io/badge/LINKTREE-161B22?style=for-the-badge&logo=linktree&logoColor=B8C7E0" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/LINKTREE-161B22?style=for-the-badge&logo=linktree&logoColor=FF6B6B" alt="Linktree"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/sabbir-ahmed-mahim">
-    <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=B8C7E0" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=FF6B6B" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -45,7 +42,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B1020,100:303B59" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:3B0000,50:8B0000,100:DC143C" width="100%" />
 
   <sub>BUILDING • LEARNING • REPEATING</sub>
 
